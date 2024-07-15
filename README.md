@@ -90,4 +90,6 @@ To add more classes of poses:
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-```
+
+Feel free to modify any sections as needed!
+
