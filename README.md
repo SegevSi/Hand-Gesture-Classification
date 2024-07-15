@@ -22,17 +22,17 @@ This project implements a real-time hand gesture classification system using Pyt
 - Trained with TensorFlow for efficient predictions
 
 ## Requirements
-To run this project, you'll need the following Python packages:
-- `mediapipe`
-- `opencv-python`
-- `tensorflow`
-- `pandas`
-- `scikit-learn`
-- `numpy`
+To run this project, you'll need the following Python packages with specified versions:
+- `scikit-learn==1.5.1`
+- `opencv-python==4.10.0`
+- `tensorflow==2.16.2`
+- `pandas==2.2.2`
+- `numpy==1.26.4`
+- `mediapipe==0.10.14`
 
 You can install these packages using pip:
 ```bash
-pip install mediapipe opencv-python tensorflow pandas scikit-learn numpy
+pip install scikit-learn==1.5.1 opencv-python==4.10.0 tensorflow==2.16.2 pandas==2.2.2 numpy==1.26.4 mediapipe==0.10.14
 ```
 
 ## Setup Instructions
